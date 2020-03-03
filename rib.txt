@@ -1,7 +1,7 @@
-This is first file of adam 11.
+This is first file of adam 22.
 I'll try make this.
 Move not this to eve.
 
-Should NOT not be changed!!!.
+Should NOT be changed.
 
 
